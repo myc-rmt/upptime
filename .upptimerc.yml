@@ -4,10 +4,24 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: EGU News
-    url: https://my-egu.vercel.app/api/news
-  - name: Google
-    url: https://www.google.com
+  - name: EGU - Dota 2 News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Dota 2
+  - name: EGU - League of Legends News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=League of Legends
+  - name: EGU - Counter-Strike: Global Offensive News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Counter-Strike: Global Offensive
+  - name: EGU - Fortnite News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite
+  - name: EGU - Apex Legends News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex Legends
+  - name: EGU - VALORANT News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=VALORANT
+  - name: EGU - PLAYERUNKNOWN'S BATTLEGROUNDS News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=PLAYERUNKNOWN'S BATTLEGROUNDS
+  - name: EGU - Overwatch News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch
+  - name: EGU - Call of Duty News
+    url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call of Duty
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
