@@ -1,9 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: myc-rmt # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: EGU Cron
+    url: https://my-egu.vercel.app/api/cron
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -17,9 +19,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
