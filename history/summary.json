@@ -3,9 +3,9 @@
     "name": "EGU News",
     "url": "https://my-egu.vercel.app/api/news",
     "slug": "egu-news",
-    "status": "down",
-    "uptime": "22.52%",
-    "time": 2665
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2993
   },
   {
     "name": "Google",
