@@ -4,8 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: EGU Cron
-    url: https://my-egu.vercel.app/api/cron
+  - name: EGU News
+    url: https://my-egu.vercel.app/api/news
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
