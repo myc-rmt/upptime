@@ -8,7 +8,7 @@ sites:
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Dota%202
   - name: EGU - League of Legends News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=League%20of%20Legends
-  - name: EGU - Counter-Strike: Global Offensive News
+  - name: EGU - Counter-Strike%3A Global Offensive News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Counter-Strike%3A%20Global%20Offensive
   - name: EGU - Fortnite News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite
@@ -16,7 +16,7 @@ sites:
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex%20Legends
   - name: EGU - VALORANT News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=VALORANT
-  - name: EGU - PLAYERUNKNOWN'S BATTLEGROUNDS News
+  - name: EGU - PLAYERUNKNOWN%27S BATTLEGROUNDS News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=PLAYERUNKNOWN%27S%20BATTLEGROUNDS
   - name: EGU - Overwatch News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch
