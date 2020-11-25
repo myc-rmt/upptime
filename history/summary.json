@@ -36,7 +36,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex%20Legends",
     "slug": "egu-apex-legends-news",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "0.01%",
     "time": 924
   },
   {
@@ -67,8 +67,8 @@
     "name": "EGU - Call of Duty News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call%20of%20Duty",
     "slug": "egu-call-of-duty-news",
-    "status": "up",
-    "uptime": "0.03%",
-    "time": 3909
+    "status": "down",
+    "uptime": "0.83%",
+    "time": 3122
   }
 ]
