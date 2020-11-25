@@ -1,0 +1,7 @@
+url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Counter-Strike%3A%20Global%20Offensive  
+status: down
+code: 400
+responseTime: 740
+lastUpdated: 2020-11-25T12:11:22.615Z
+startTime: Wed Nov 25 2020 12:11:20 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
