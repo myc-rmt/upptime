@@ -59,9 +59,9 @@
     "name": "EGU - Overwatch News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch",
     "slug": "egu-overwatch-news",
-    "status": "up",
-    "uptime": "0.01%",
-    "time": 3114
+    "status": "down",
+    "uptime": "0.71%",
+    "time": 2515
   },
   {
     "name": "EGU - Call of Duty News",
