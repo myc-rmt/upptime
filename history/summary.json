@@ -11,33 +11,33 @@
     "name": "EGU - League of Legends News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=League%20of%20Legends",
     "slug": "egu-league-of-legends-news",
-    "status": "up",
-    "uptime": "0.05%",
-    "time": 2946
+    "status": "down",
+    "uptime": "1.14%",
+    "time": 2481
   },
   {
     "name": "EGU - Counter-Strike%3A Global Offensive News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Counter-Strike%3A%20Global%20Offensive",
     "slug": "egu-counter-strike-3-a-global-offensive-news",
-    "status": "up",
-    "uptime": "0.04%",
-    "time": 2513
+    "status": "down",
+    "uptime": "1.14%",
+    "time": 2169
   },
   {
     "name": "EGU - Fortnite News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite",
     "slug": "egu-fortnite-news",
-    "status": "up",
-    "uptime": "0.04%",
-    "time": 2239
+    "status": "down",
+    "uptime": "1.14%",
+    "time": 1937
   },
   {
     "name": "EGU - Apex Legends News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex%20Legends",
     "slug": "egu-apex-legends-news",
-    "status": "up",
-    "uptime": "0.03%",
-    "time": 2831
+    "status": "down",
+    "uptime": "1.13%",
+    "time": 2455
   },
   {
     "name": "EGU - VALORANT News",
@@ -60,7 +60,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch",
     "slug": "egu-overwatch-news",
     "status": "down",
-    "uptime": "0.62%",
+    "uptime": "0.61%",
     "time": 2179
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call%20of%20Duty",
     "slug": "egu-call-of-duty-news",
     "status": "down",
-    "uptime": "0.26%",
+    "uptime": "0.25%",
     "time": 2682
   }
 ]
