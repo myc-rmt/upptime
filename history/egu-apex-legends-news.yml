@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex%20Legends  
 status: up
 code: 200
-responseTime: 1553
-lastUpdated: 2020-11-27T07:54:39.787Z
+responseTime: 270
+lastUpdated: 2020-11-27T23:12:09.600Z
 startTime: Wed Nov 25 2020 12:11:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
