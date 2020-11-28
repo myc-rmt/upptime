@@ -3,16 +3,16 @@
     "name": "EGU - Dota 2 News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Dota%202",
     "slug": "egu-dota-2-news",
-    "status": "down",
-    "uptime": "32.38%",
-    "time": 5120
+    "status": "up",
+    "uptime": "32.49%",
+    "time": 5594
   },
   {
     "name": "EGU - League of Legends News",
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=League%20of%20Legends",
     "slug": "egu-league-of-legends-news",
     "status": "up",
-    "uptime": "33.03%",
+    "uptime": "33.15%",
     "time": 2217
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Counter-Strike%3A%20Global%20Offensive",
     "slug": "egu-counter-strike-3-a-global-offensive-news",
     "status": "up",
-    "uptime": "33.03%",
+    "uptime": "33.14%",
     "time": 1867
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite",
     "slug": "egu-fortnite-news",
     "status": "up",
-    "uptime": "33.03%",
+    "uptime": "33.14%",
     "time": 1860
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Apex%20Legends",
     "slug": "egu-apex-legends-news",
     "status": "up",
-    "uptime": "33.03%",
+    "uptime": "33.14%",
     "time": 2014
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=VALORANT",
     "slug": "egu-valorant-news",
     "status": "up",
-    "uptime": "32.38%",
+    "uptime": "32.49%",
     "time": 667
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=PLAYERUNKNOWN%27S%20BATTLEGROUNDS",
     "slug": "egu-playerunknown-27-s-battlegrounds-news",
     "status": "up",
-    "uptime": "32.38%",
+    "uptime": "32.49%",
     "time": 1046
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch",
     "slug": "egu-overwatch-news",
     "status": "up",
-    "uptime": "32.73%",
+    "uptime": "32.84%",
     "time": 1805
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call%20of%20Duty",
     "slug": "egu-call-of-duty-news",
     "status": "up",
-    "uptime": "32.52%",
+    "uptime": "32.63%",
     "time": 2384
   }
 ]
