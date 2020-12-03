@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite  
 status: up
 code: 200
-responseTime: 407
-lastUpdated: 2020-12-02T23:12:35.471Z
+responseTime: 558
+lastUpdated: 2020-12-03T02:47:49.533Z
 startTime: Wed Nov 25 2020 12:11:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
