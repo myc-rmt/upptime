@@ -22,8 +22,8 @@ sites:
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch
   - name: EGU - Call of Duty News
     url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call%20of%20Duty
-  - name: FRESHFACES - Cron
-    url: https://freshfaces.vercel.app/api/cron
+  - name: FRESHFACES
+    url: https://freshfaces.vercel.app/api/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
