@@ -1,7 +1,7 @@
-url: https://freshfaces.vercel.app/api/status  
-status: down
-code: 404
-responseTime: 302
-lastUpdated: 2020-12-07T23:20:59.285Z
+url: https://freshfaces.vercel.app/api/cron  
+status: up
+code: 200
+responseTime: 4458
+lastUpdated: 2020-12-07T23:23:05.478Z
 startTime: Mon Dec 07 2020 13:17:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
