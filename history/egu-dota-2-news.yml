@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Dota%202  
-status: up
-code: 200
-responseTime: 5072
-lastUpdated: 2020-12-23T06:37:11.496Z
+status: down
+code: 400
+responseTime: 5014
+lastUpdated: 2020-12-23T07:38:21.597Z
 startTime: Wed Nov 25 2020 12:11:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
