@@ -1,7 +1,7 @@
 url: https://freshfaces.vercel.app/api/cron/ping  
 status: up
 code: 200
-responseTime: 5366
-lastUpdated: 2020-12-23T23:24:20.174Z
+responseTime: 252
+lastUpdated: 2020-12-24T23:22:55.463Z
 startTime: Mon Dec 07 2020 13:17:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
