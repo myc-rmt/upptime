@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=League%20of%20Legends  
 status: up
 code: 200
-responseTime: 267
-lastUpdated: 2021-01-02T23:26:27.218Z
+responseTime: 280
+lastUpdated: 2021-01-03T23:27:39.581Z
 startTime: Wed Nov 25 2020 12:11:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
