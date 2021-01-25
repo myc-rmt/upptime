@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Overwatch
 status: up
 code: 200
-responseTime: 308
-lastUpdated: 2021-01-24T23:40:58.530Z
+responseTime: 273
+lastUpdated: 2021-01-25T23:22:08.320Z
 startTime: Wed Nov 25 2020 12:11:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
