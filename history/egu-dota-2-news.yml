@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Dota%202
 status: down
 code: 400
-responseTime: 2863
-lastUpdated: 2021-02-02T23:17:06.933Z
+responseTime: 2724
+lastUpdated: 2021-02-03T23:14:21.258Z
 startTime: Wed Nov 25 2020 12:11:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
