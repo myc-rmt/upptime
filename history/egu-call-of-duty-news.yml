@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Call%20of%20Duty
 status: down
 code: 400
-responseTime: 289
-lastUpdated: 2021-02-14T23:14:56.042Z
+responseTime: 267
+lastUpdated: 2021-02-15T23:14:53.113Z
 startTime: Wed Nov 25 2020 12:11:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
