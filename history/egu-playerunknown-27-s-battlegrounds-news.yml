@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=PLAYERUNKNOWN%27S%20BATTLEGROUNDS
 status: down
 code: 400
-responseTime: 747
-lastUpdated: 2021-02-28T23:15:08.181Z
+responseTime: 319
+lastUpdated: 2021-03-01T23:15:06.566Z
 startTime: Wed Nov 25 2020 12:11:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
