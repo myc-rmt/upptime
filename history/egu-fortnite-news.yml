@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=Fortnite
 status: down
 code: 400
-responseTime: 274
-lastUpdated: 2021-03-02T23:15:25.793Z
+responseTime: 267
+lastUpdated: 2021-03-03T23:15:04.559Z
 startTime: Wed Nov 25 2020 12:11:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
