@@ -1,7 +1,7 @@
 url: https://my-egu.vercel.app/api/news/scrapeGoogle?topic=VALORANT
 status: down
 code: 400
-responseTime: 277
-lastUpdated: 2021-03-11T23:15:35.032Z
+responseTime: 385
+lastUpdated: 2021-03-12T23:15:40.162Z
 startTime: Wed Nov 25 2020 12:11:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
